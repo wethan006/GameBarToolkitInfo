@@ -3,7 +3,7 @@
 This describes what the current GameBar Toolkit app (companion + Game Bar widget) does with information on your PC.
 It is written from the code as it stands. Nothing is sent over the internet.
 
-**Publisher / contact:** wethan — wethan006@outlook.com
+**Publisher / contact:** wethan — https://github.com/wethan006/GameBarToolkitInfo/issues
 
 If this text is posted for the Microsoft Store, replace the line above with your real name and a way to reach you, and keep this page up to date if the app’s behavior changes.
 
