@@ -35,7 +35,7 @@ Start with Windows is off until you turn it on in the widget.
 ## Limitations
 
 - The gamepad cursor can't control apps running as administrator or the UAC prompt (Windows blocks this).
-- **Not designed for competitive online games with anti-cheat.** Leave the gamepad cursor off or add the game to Ignore while you play one.
+- **Not designed for competitive online games with anti-cheat.** (Untested, I don't know it anti cheat has issue. My cursor emulation runs the same as steam so I think its okay)
 - In Xbox mode, LT + RT can't be used together in a combo (Windows reports both triggers on one axis).
 
 ## Privacy
